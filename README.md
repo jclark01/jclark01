@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm James Clark.
+**I'm James Clark.**
 
 **jclark01/jclark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
