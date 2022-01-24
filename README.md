@@ -1,4 +1,4 @@
-### Hi there, 👋 ## **I'm James Clark.**
+### Hi there, 👋 **I'm James Clark.**
 Some things you might want to know about me.
 
 **Background**
