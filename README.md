@@ -1,9 +1,7 @@
 ### Hi there 👋
 **I'm James Clark.**
 
-**jclark01/jclark01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Some things you may want to know about me.
 
 - 💻 I previously took a computer literacy class where I some of the more advanced features in Microsoft PowerPoint, Word, and Excel.
 - 🔭 As of writing, I gained a little expirience with HTML several years ago.
