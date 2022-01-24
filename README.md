@@ -1,5 +1,5 @@
 ### Hi there 👋
-## **I'm James Clark.** ##
+## **I'm James Clark.**
 
 Some things you may want to know about me.
 
