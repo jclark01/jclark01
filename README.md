@@ -6,5 +6,4 @@
 - 🖥️ I previously took a computer literacy class where I learned some of the more advanced features in Microsoft PowerPoint, Word, and Excel.
 - 📆 As of writing, I gained a little expirience with HTML back in high school.
 
-## Lessons Learned
-
+### Looking forwared to gain expirence with HTML, CCS, as well as everything else in Web Development. 
